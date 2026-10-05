@@ -1,4 +1,4 @@
-# ML-camp-0.1
+# ML-camp
 
 Hellow world
 
